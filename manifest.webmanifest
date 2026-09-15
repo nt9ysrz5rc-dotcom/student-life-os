@@ -1,0 +1,10 @@
+{
+  "name": "大学生生活OS",
+  "short_name": "生活OS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f5f9",
+  "theme_color": "#6d5dfb",
+  "lang": "ja",
+  "icons": []
+}
