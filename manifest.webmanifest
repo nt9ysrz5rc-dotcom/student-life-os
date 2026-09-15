@@ -1,0 +1,10 @@
+{
+  "name": "大学生生活OS",
+  "short_name": "生活OS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f6fa",
+  "theme_color": "#6d5dfb",
+  "lang": "ja",
+  "description": "大学生の課題・予定・お金をひとつにまとめる生活管理アプリ"
+}
